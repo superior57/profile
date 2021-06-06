@@ -1,0 +1,6 @@
+.background-video {
+    position: absolute;
+}
+.background-video video {
+    width: 100%;
+}
